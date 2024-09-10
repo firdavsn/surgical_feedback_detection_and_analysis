@@ -1,0 +1,24 @@
+numpy
+pandas
+matplotlib
+tqdm
+ipykernel
+seaborn
+moviepy
+openai
+transformers[torch]==4.42.3
+datasets
+# torch: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+accelerate
+scikit-learn
+wandb
+webrtcvad
+pydub
+langdetect
+soundfile
+librosa
+opencv-python
+openpyxl
+noisereduce
+pyannote.audio
+datasets==2.20.0

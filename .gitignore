@@ -1,0 +1,37 @@
+# Video file formats
+*.avi
+*.mp4
+
+# Audio file formats
+*.mp3
+*.wav
+
+# Torch files
+*.pt
+
+.venv/*
+results/*
+wandb/*
+.ipynb_checkpoints/*
+
+feedback_detection/results/checkpoints/*
+feedback_detection/results/rolling_fragments/*
+feedback_detection/wandb/*
+
+
+rolling_fragments/*
+feedback_detection/tmp/*
+
+.venv2/*
+*api*
+*token*
+feedback_detection/openai_api_key.txt
+feedback_detection/personal_openai_api_key.txt
+feedback_detection/huggingface_token.txt
+
+*.npy
+*.csv
+*.pkl
+*.ckpt
+*.pyc
+pretrained_models/*
